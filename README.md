@@ -43,4 +43,4 @@ STRIPE_WEBHOOK_SECRET=
 
 ## Credits and Acknowledgements
 
-This project was inspired by [this tutorial](https://www.youtube.com/watch?v=2aeMRB8LL4o) by [Antonio Erdeljac](https://github.com/AntonioErdeljac). I would like to thank him for his clear and engaging explanation of how to build a Spotify clone with React.
+This project was inspired by [this tutorial](https://www.youtube.com/watch?v=2aeMRB8LL4o) by [Antonio Erdeljac](https://github.com/AntonioErdeljac). I would like to thank him for his clear and engaging explanation of how to build a Spotify clone with NextJS 13.
