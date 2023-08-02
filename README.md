@@ -34,7 +34,7 @@ STRIPE_WEBHOOK_SECRET=
 
 ## Technologies and Tools
 
-- [Next.js](https://nextjs.org/) - A React framework for hybrid static and server rendering
+- [Next.js 13](https://nextjs.org/) - A React framework for hybrid static and server rendering
 - [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds types
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development
 - [Supabase](https://supabase.io/) - An open source Firebase alternative that provides authentication, database, storage, and serverless functions
@@ -43,4 +43,4 @@ STRIPE_WEBHOOK_SECRET=
 
 ## Credits and Acknowledgements
 
-This project was inspired by [this tutorial](https://www.youtube.com/watch?v=2aeMRB8LL4o) by [Antonio Erdeljac](https://github.com/AntonioErdeljac). I would like to thank him for his clear and engaging explanation of how to build a Spotify clone with NextJS 13.
+This project was inspired by [this tutorial](https://www.youtube.com/watch?v=2aeMRB8LL4o) by [Antonio Erdeljac](https://github.com/AntonioErdeljac). I would like to thank him for his clear and engaging explanation.
